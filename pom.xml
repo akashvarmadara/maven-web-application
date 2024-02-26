@@ -15,7 +15,7 @@
     </organization>
     <properties>
            <!-- SonarQube analysis properties -->
-           <sonar.host.url>http://15.206.173.254:9000</sonar.host.url>
+           <sonar.host.url>http://172.31.41.30:9000</sonar.host.url>
            <!-- SonarQube authentication credentials -->
            <sonar.login>admin</sonar.login>
            <sonar.password>sonarqube</sonar.password>
@@ -25,7 +25,7 @@
         <repository>
             <id>nexus</id>
             <name>amazon remote repo</name>
-            <url>http://13.233.253.196:8081/repository/proxyrepo/</url>
+            <url>http://1:8081/repository/proxyrepo/</url>
         </repository>
     </repositories>
 
