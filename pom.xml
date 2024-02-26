@@ -18,7 +18,7 @@
            <sonar.host.url>http://172.31.41.30:9000</sonar.host.url>
            <!-- SonarQube authentication credentials -->
            <sonar.login>admin</sonar.login>
-           <sonar.password>sonarqube</sonar.password>
+           <sonar.password>99123aA@</sonar.password>
     </properties>
 
     <repositories>
